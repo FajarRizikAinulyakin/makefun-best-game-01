@@ -1,10 +1,10 @@
 # EMBERFALL — Defend the Last Lantern
 
-An entry for make.fun's **best-game-01** ("Make the best game").
+An entry for [make.fun's **best-game-01**](https://make.fun/bounty/best-game-01) ("Make the best game").
 
-![bounty](https://make.fun/api/bounties/best-game-01/badge.svg?owner=FajarRizikAinulyakin&repo=makefun-best-game-01)
-![submissions](https://make.fun/api/bounties/best-game-01/submissions/badge.svg?owner=FajarRizikAinulyakin&repo=makefun-best-game-01)
-![status](https://make.fun/api/bounties/best-game-01/status/badge.svg?owner=FajarRizikAinulyakin&repo=makefun-best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/FajarRizikAinulyakin/makefun-best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/FajarRizikAinulyakin/makefun-best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 > The shadows are coming for the Last Lantern. You are its Warden. Survive
 > **10 waves** of shadow creatures and banish the **Hollow King** — or the
